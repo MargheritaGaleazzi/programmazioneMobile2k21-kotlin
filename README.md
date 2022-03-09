@@ -211,43 +211,59 @@ l'utilizzazione dell'applicazione, comprendenti le operazioni che possono essere
 
 ### Diagramma dei casi d'uso
 
-Diagramma dei casi d'uso
-10
-2.3.2 Login
-Schermata Iniziale
-Funzionalità di accesso
-11
-2.3.3 Cerca Ricette
-Filtraggi Ricetta
-Dettaglio e Condivisione
-12
-2.3.4 Dispensa
-Inserimento Prodotto
-Filtro per Prodotto
-13
-2.3.5 Tue Ricette
-Aggiunta ricetta senza immagine
-14
-Aggiunta ricetta con immagine
-15
-2.3.6 Lista Spesa
-Aggiunta prodotto nella lista della spesa
-16
-2.3.7 Login interno
-Login interno
-2.3.8 Ispirami
-Ispirami
-17
-2.3.9 Contattaci
-Contattaci
-2.3.10 Logout
-Logout
-18
-2.3.11 Informazioni
-Informazioni
-2.3.12 Navigation Drawer
-Navigation Drawer per le due tipologie di utente
+![Diagramma dei casi d'uso](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/imm/1.jpg)
 
+### Login
+
+![Schermata Iniziale](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/imm/2.jpg)
+
+![Funzionalità di accesso](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/imm/3.jpg)
+
+### Cerca Ricette
+
+![Filtraggi Ricetta](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/imm/4.jpg)
+
+![Dettaglio e Condivisione](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/imm/5.jpg)
+
+### Dispensa
+
+![Inserimento Prodotto](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/imm/6.jpg)
+
+![Filtro per Prodotto](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/imm/7.jpg)
+
+### Tue Ricette
+
+![Aggiunta ricetta senza immagine](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/imm/8.jpg)
+
+![Aggiunta ricetta con immagine](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/imm/9.jpg)
+
+### Lista Spesa
+
+![Aggiunta prodotto nella lista della spesa](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/imm/10.jpg)
+
+### Login interno
+
+![Login interno](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/imm/11.jpg)
+
+### Ispirami
+
+![Ispirami](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/imm/12.jpg)
+
+### Contattaci
+
+![Contattaci](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/imm/13.jpg)
+
+### Logout
+
+![Logout](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/imm/14.jpg)
+
+### Informazioni
+
+![Informazioni](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/imm/15.jpg)
+
+### Navigation Drawer
+
+![Navigation Drawer per le due tipologie di utente](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/imm/16.jpg)
 
 ## Sviluppo
 
