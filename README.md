@@ -227,43 +227,43 @@ l'utilizzazione dell'applicazione, comprendenti le operazioni che possono essere
 
 ### Dispensa
 
-![Inserimento Prodotto](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/main/imm/6.jpg)
+![Inserimento Prodotto](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/blob/main/imm/6.jpg)
 
-![Filtro per Prodotto](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/main/imm/7.jpg)
+![Filtro per Prodotto](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/blob/main/imm/7.jpg)
 
 ### Tue Ricette
 
-![Aggiunta ricetta senza immagine](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/main/imm/8.jpg)
+![Aggiunta ricetta senza immagine](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/blob/main/imm/8.jpg)
 
-![Aggiunta ricetta con immagine](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/main/imm/9.jpg)
+![Aggiunta ricetta con immagine](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/blob/main/imm/9.jpg)
 
 ### Lista Spesa
 
-![Aggiunta prodotto nella lista della spesa](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/main/imm/10.jpg)
+![Aggiunta prodotto nella lista della spesa](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/blob/main/imm/10.jpg)
 
 ### Login interno
 
-![Login interno](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/main/imm/11.jpg)
+![Login interno](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/blob/main/imm/11.jpg)
 
 ### Ispirami
 
-![Ispirami](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/main/imm/12.jpg)
+![Ispirami](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/blob/main/imm/12.jpg)
 
 ### Contattaci
 
-![Contattaci](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/main/imm/13.jpg)
+![Contattaci](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/blob/main/imm/13.jpg)
 
 ### Logout
 
-![Logout](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/main/imm/14.jpg)
+![Logout](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/blob/main/imm/14.jpg)
 
 ### Informazioni
 
-![Informazioni](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/main/imm/15.jpg)
+![Informazioni](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/blob/main/imm/15.jpg)
 
 ### Navigation Drawer
 
-![Navigation Drawer per le due tipologie di utente](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/main/imm/16.jpg)
+![Navigation Drawer per le due tipologie di utente](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/blob/main/imm/16.jpg)
 
 ## Sviluppo
 
