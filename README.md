@@ -314,4 +314,7 @@ L'applicazione è stata sottoposta a diversi test, superati con successo:
  - verifica che il campo password non sia vuoto.
  - verifica che la password abbia un numero di caratteri superiori a sei.
 
-
+## Autori
+ - Margherita Galeazzi -> https://github.com/MargheritaGaleazzi
+ - Lorenzo Longarini -> https://github.com/LorenzoLongarini
+ - Chiara Amalia Caporusso -> https://github.com/ChiaraAmalia
