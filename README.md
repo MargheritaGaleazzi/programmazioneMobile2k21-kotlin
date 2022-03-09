@@ -215,15 +215,15 @@ l'utilizzazione dell'applicazione, comprendenti le operazioni che possono essere
 
 ### Login
 
-![Schermata Iniziale](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/main/imm/2.jpg)
+![Schermata Iniziale](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/blob/main/imm/2.jpg)
 
-![Funzionalità di accesso](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/main/imm/3.jpg)
+![Funzionalità di accesso](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/blob/main/imm/3.jpg)
 
 ### Cerca Ricette
 
-![Filtraggi Ricetta](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/main/imm/4.jpg)
+![Filtraggi Ricetta](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/blob/main/imm/4.jpg)
 
-![Dettaglio e Condivisione](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/main/imm/5.jpg)
+![Dettaglio e Condivisione](https://github.com/MargheritaGaleazzi/programmazioneMobile2k21-kotlin/blob/main/imm/5.jpg)
 
 ### Dispensa
 
